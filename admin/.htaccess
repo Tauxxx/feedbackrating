@@ -1,0 +1,3 @@
+<Files ~ "\.(php|html)$">
+    Deny from All
+</Files>
